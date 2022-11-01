@@ -7,7 +7,7 @@ This webpage is my week 3 bootcamp challenge. I was given starter code, which co
 N/A
 
 ## Usage
-Upon opening the webpage, click on the "generate password" button to initiate the password creation. User will be prompted to answer some questions about the characteristics of the password, including length and character type, Link to deployed application: //ADD LINK ONCE WEBPAGE HAS BEEN DEPLOYED
+Upon opening the webpage, click on the "generate password" button to initiate the password creation. User will be prompted to answer some questions about the characteristics of the password, including length and character type, Link to deployed application: https://madelinelowes.github.io/madelines-password-creator/
 
 ## Credits
 https://www.codecademy.com/forum_questions/531c8d5a7c82ca7500004f18
