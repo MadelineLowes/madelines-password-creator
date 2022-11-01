@@ -1,15 +1,15 @@
 # madelines-password-creator
 
-Description
+## Description
 This webpage is my week 3 bootcamp challenge. I was given starter code, which contained the html and css files, plus a few lines of code in the javascript file; I added the code to allow the user to interact with the system, and to actually generate the random password based on the user's input. My knowledge of JavaScript expanded immensly given the opportunity to experiment variables, arrays, prompts, functions, if statements, for loops, etc.
 
-Installation
+## Installation
 N/A
 
-Usage
+## Usage
 Upon opening the webpage, click on the "generate password" button to initiate the password creation. User will be prompted to answer some questions about the characteristics of the password, including length and character type, Link to deployed application: //ADD LINK ONCE WEBPAGE HAS BEEN DEPLOYED
 
-Credits
+## Credits
 https://www.codecademy.com/forum_questions/531c8d5a7c82ca7500004f18
 https://developer.mozilla.org/en-US/docs/Web/API/Crypto/getRandomValues
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
@@ -27,5 +27,5 @@ https://www.youtube.com/watch?v=ssYo9t37pE4
 https://www.w3schools.com/jsref/met_document_addeventlistener.asp
 https://www.w3schools.com/js/js_random.asp
 
-License
+## License
 Please refer to the LICENSE in the repo.
